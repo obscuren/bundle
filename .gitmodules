@@ -1,3 +1,9 @@
 [submodule "vim-powerline"]
 	path = vim-powerline
 	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "vitality.vim"]
+	path = vitality.vim
+	url = https://github.com/sjl/vitality.vim.git
+[submodule "vim-commentary"]
+	path = vim-commentary
+	url = https://github.com/tpope/vim-commentary
