@@ -7,3 +7,6 @@
 [submodule "vim-commentary"]
 	path = vim-commentary
 	url = https://github.com/tpope/vim-commentary
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/bling/vim-airline.git
